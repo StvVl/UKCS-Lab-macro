@@ -201,7 +201,7 @@
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="Napomena.*\r\n" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
-            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="\r\n" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
             <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
@@ -724,6 +724,12 @@
             <Action type="3" message="1602" wParam="0" lParam="0" sParam=" " />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="; ;" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam=";" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
         </Macro>
         <Macro name="Lab ordering MkVIII old" Ctrl="yes" Alt="no" Shift="yes" Key="113">
             <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
@@ -833,7 +839,7 @@
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="Napomena.*\r\n" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
-            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="\r\n" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
             <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
@@ -1333,6 +1339,12 @@
             <Action type="3" message="1601" wParam="0" lParam="0" sParam=" +" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam=" " />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="; ;" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam=";" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
         </Macro>
