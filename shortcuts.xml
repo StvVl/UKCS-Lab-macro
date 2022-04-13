@@ -26,7 +26,7 @@
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
             <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam="HbA1c" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="Hemoglobin A1c" />
             <Action type="3" message="1625" wParam="0" lParam="1" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="HbAjedanc" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
@@ -218,6 +218,13 @@
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam=".*nemija.*\r\n" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
             <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="Hloridi.*\r\n" />
@@ -368,6 +375,13 @@
             <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="UIBC.*\r\n" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="HbA1.*\r\n" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
