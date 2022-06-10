@@ -61,6 +61,13 @@
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
 			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="Vitamin B12" />
+            <Action type="3" message="1625" wParam="0" lParam="1" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="Vitamin Bdvanaest" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam=" (citokeratin 19 fragmenti)" />
             <Action type="3" message="1625" wParam="0" lParam="1" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
@@ -297,6 +304,41 @@
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
             <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="ALY.*\r\n" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="LIC.*\r\n" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="IML.*\r\n" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="IMM.*\r\n" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="IMG.*\r\n" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="NE #.*\r\n" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
@@ -410,6 +452,27 @@
 			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="HbA1.*\r\n" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="PT - %" />
+            <Action type="3" message="1625" wParam="0" lParam="1" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="PT" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="PT - INR" />
+            <Action type="3" message="1625" wParam="0" lParam="1" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="INR" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="PT \- .*\r\n" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
@@ -585,6 +648,13 @@
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam=" (Trombinsko vreme" />
             <Action type="3" message="1625" wParam="0" lParam="1" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="\s\(.*Lupus.*\)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
@@ -795,7 +865,35 @@
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="-" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="NE % (\d+\.\d*)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="Ne \1%" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="LY % (\d+\.\d*)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="Ly \1%" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="MO % (\d+\.\d*)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="Mo \1%" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="PT (\d+\.\d*)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="PT \1%" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="\r\n" />
             <Action type="3" message="1625" wParam="0" lParam="1" sParam="" />
@@ -851,7 +949,35 @@
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="LA2" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="Vitamin Bdvanaest" />
+            <Action type="3" message="1625" wParam="0" lParam="1" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="Vit B12" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="HGB " />
+            <Action type="3" message="1625" wParam="0" lParam="1" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="Hgb " />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="WBC " />
+            <Action type="3" message="1625" wParam="0" lParam="1" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="Le " />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="PLT " />
+            <Action type="3" message="1625" wParam="0" lParam="1" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="Tr " />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />		
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="(\d)\.(\d)" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
@@ -884,6 +1010,12 @@
             <Action type="3" message="1602" wParam="0" lParam="0" sParam=";" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="Le (\d+\,\d+)\; Hgb (\d+\,*\d*)\; MCV (\d+\,\d+)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="Hgb \2; MCV \3; Le \1" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
         </Macro>
         <Macro name="test" Ctrl="no" Alt="no" Shift="no" Key="0">
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
@@ -904,6 +1036,20 @@
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="NE % (\d+\,*\d*);(.*)NE # (\d+\,*\d*); " />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="NE \3 \(\1%\);\2" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="LA - ratio" />
+            <Action type="3" message="1625" wParam="0" lParam="1" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="LA ratio" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="NE \% (\d+)\s\d*" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="Ne \1\%" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
         </Macro>
