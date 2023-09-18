@@ -3,15 +3,7 @@ Prikaz konzilijumu planiran je za **********************
 
 ================================================================================================================================
 
-Bila je na ***kontrolnom*** pregledu *********** Po pristizanju rezultata traženih analiza konačno mišljenje se prosleđuje ***mailom/poštom***.
-
-================================================================================================================================
-
 Dana ********* nije uzeta krv za laboratorijske analize.
-
-================================================================================================================================
-
-Imunofiksacija proteina - M komponenta nije identifikovana.
 
 ================================================================================================================================
 
@@ -19,11 +11,15 @@ VIRUSOLOGIJA: Od ***********: HIV Ag/At negativan; anti-HCV negativan; HBsAg neg
 
 ================================================================================================================================
 
-Analize Multiplate: ADPtest 54U (55-117); TRAPtest 48U (92-151); COLtest 46U (61-108); ASPItest 50U (79-141).
+Analize Multiplate: ADPtest U (55-117); TRAPtest U (92-151); COLtest U (61-108); ASPItest U (79-141).
 
 ================================================================================================================================
 
-Potrebno je da uradi genetsko testiranje na urođene trombofilije (PCR na FV Leiden, PCR na 20210A mutaciju, PCR za PAI-1, PCR za MTHFR). Ovo testiranje se radi na VMA ili u KBC Zvezdara sa uputom za hematologa izdatim od strane izabranog lekara.
+Potrebno je da uradi genetsko testiranje na urođene trombofilije (PCR na FV Leiden, PCR na FII 20210A mutaciju). Ovo testiranje se radi na Institutu za medicinska istraživanja na VMA ili na hematologiji u KBC Zvezdara sa uputom za hematologa izdatim od strane izabranog lekara.
+
+================================================================================================================================
+
+Dosadašnjim ispitivanjem nije ustanovljeno prisustvo hematološkog poremećaja koji bi se mogao jasno dovesti u vezu sa nastankom tromboze.
 
 ================================================================================================================================
 
@@ -35,6 +31,10 @@ Treba da nabavi lek TRANEKSAMINSKA KISELINA tbl a 500 mg. Lek se nalazi na D lis
 
 ================================================================================================================================
 
+GOSPODIN JE ANTIKOAGULISAN. NE SME UZIMATI ACETILSALICILNU KISELINU I DRUGE LEKOVE KOJI OMETAJU FUNKCIJU TROMBOCITA. U SLUČAJU ZNAČAJNIJEG KRVARENJA ILI POTREBE ZA INVAZIVNIM PROCEDURAMA POTREBNO JE KORIGOVATI ANTIKOAGULANTU TERAPIJU.
+
+================================================================================================================================
+
 Gospodin/Gospođa (sa ********) dolazi zbog ********. Trenutno ne uzima antikoagulantnu ni antiagregacionu terapiju.
 Tegobe u vidu ********** su se javile **********
 Leči se od *********. Negira operacije i povrede. Negira alergije na hranu i lekove. Ne puši. Trenutna terapija:
@@ -43,12 +43,12 @@ Negira sklonost krvarenju i sklonost trombozama u porodici.
 ********M*********
 COVID STATUS: Preležao je Covid infekciju ***********/Nije preležao Covid infekciju. Vakcinisan je sa *** doze ********** vakcine./Nije vakcinisan.
 
-OBJEKTIVNO: Svestan, orjentisan, komunikativan, pokretan, anikteričan, eupnoičan. Bez znakova hemoragijskog sindroma. Auskultatorno nad plućima normalan disajni šum, srčana radnja ritmična, tonovi jasni, bez šumova. Abdomen mek, palpatorno bolno neosetljiv, jetra i slezina se ne palpiraju. Ekstremiteti bez edema i varikoziteta. Bez periferne limfadenopatije.
+OBJEKTIVNO: TV ***, TT ***. Svestan, orjentisan, komunikativan, pokretan, anikteričan, eupnoičan. Bez znakova hemoragijskog sindroma. Auskultatorno nad plućima normalan disajni šum, srčana radnja ritmična, tonovi jasni, bez šumova. Abdomen mek, palpatorno bolno neosetljiv, jetra i slezina se ne palpiraju. Ekstremiteti bez edema i varikoziteta. Bez periferne limfadenopatije.
 
 ********Ž*********
 COVID STATUS: Preležala je Covid infekciju ***********/Nije preležala Covid infekciju. Vakcinisana je sa *** doze ********** vakcine./Nije vakcinisana.
 
-OBJEKTIVNO: Svesna, orjentisana, komunikativna, pokretna, anikterična, eupnoična. Bez znakova hemoragijskog sindroma. Auskultatorno nad plućima normalan disajni šum, srčana radnja ritmična, tonovi jasni, bez šumova. Abdomen mek, palpatorno bolno neosetljiv, jetra i slezina se ne palpiraju. Ekstremiteti bez edema i varikoziteta. Bez periferne limfadenopatije.
+OBJEKTIVNO: TV ***, TT ***. Svesna, orjentisana, komunikativna, pokretna, anikterična, eupnoična. Bez znakova hemoragijskog sindroma. Auskultatorno nad plućima normalan disajni šum, srčana radnja ritmična, tonovi jasni, bez šumova. Abdomen mek, palpatorno bolno neosetljiv, jetra i slezina se ne palpiraju. Ekstremiteti bez edema i varikoziteta. Bez periferne limfadenopatije.
 
 LABORATORIJA:
 
@@ -56,4 +56,26 @@ ZAKLJUČAK:
 
 ================================================================================================================================
 
+Bio je na kontrolnom pregledu ******* Po pristizanju rezultata traženih analiza konačno mišljenje se prosleđuje mailom.
 
+Bio je na kontrolnom pregledu ******* Po pristizanju rezultata traženih analiza konačno mišljenje se prosleđuje poštom.
+
+Bio je na kontrolnom pregledu ******* Po pristizanju rezultata traženih analiza konačno mišljenje preuzima ********
+
+Bila je na kontrolnom pregledu ******* Po pristizanju rezultata traženih analiza konačno mišljenje se prosleđuje mailom.
+
+Bila je na kontrolnom pregledu ******* Po pristizanju rezultata traženih analiza konačno mišljenje se prosleđuje poštom.
+
+Bila je na kontrolnom pregledu ******* Po pristizanju rezultata traženih analiza konačno mišljenje preuzima ********
+
+================================================================================================================================
+
+The patient was diagnosed with haemophilia A soon after birth. Hemophilia A results from the deficiency of clotting factor VIII and it is mostly an inherited genetic disorder that impairs the body's ability to make blood clots, a process needed to stop bleeding. People with severe haemophilia can experience spontaneous bleeding, usually in the joints. If left untreated, these bleeds cause severe pain and joint damage, leading to disability. The hallmark of the disease is joint damage from haemarthrosis (haemophilic arthropathy), potentially with severe pain, disfigurement, and even destruction of the joint and development of debilitating arthritis. In order to prevent haemophilic arthropathy the patient was treated during his life with FVIII replacement therapy on the regular basis. In defined time frames he regularly received factor FVIII concentrate. Unfortunately, during this treatment he developed an immune response to treatment with clotting factor concentrates (inhibitor).
+At first he was treated with by pass agents. Since 2020 the mainstay of his treatment is Hemlibra (Emicizumab). The patient is treated in Hemophilia Comprehensive Treatment Centre,University Clinical Centre of Serbia, Belgrade. Monthly he comes to the treatment centre for a regular check up and recieves a certain amount of Hemlibra that he must have with him at any time, in case of bleeding.
+
+================================================================================================================================
+
+The patient was diagnosed with haemophilia A soon after birth. Hemophilia A results from the deficiency of clotting factor VIII and it is mostly an inherited genetic disorder that impairs the body's ability to make blood clots, a process needed to stop bleeding. People with severe haemophilia can experience spontaneous bleeding, usually in the joints. If left untreated, these bleeds cause severe pain and joint damage, leading to disability. The hallmark of the disease is joint damage from haemarthrosis (haemophilic arthropathy), potentially with severe pain, disfigurement, and even destruction of the joint and development of debilitating arthritis.
+In order to prevent haemophilic arthropathy the patient is treated with FVIII replacement therapy on a regular basis. In defined time frames he regularly receives factor FVIII concentrate. The patient is treated in Hemophilia Comprehensive Treatment Centre, University Clinical Centre of Serbia, Belgrade. Monthly he comes to the treatment centre for a regular check up and recieves a certain amount of FVIII concentrate that he must have with him at any time, in case of bleeding.
+
+================================================================================================================================
