@@ -2763,9 +2763,29 @@
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
 			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="(.+?)\%\%\%(.+?)C3 \(NL\) (\d+\.*\d*) (\(\d+\.*\d*\-\d+\.*\d*\)).*?\#\#\#(.+)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="\1C3 \3 \4; %%%\2\5"/>
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" /><Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="(.+?)\%\%\%(.+?)C4 \(NL\) (\d+\.*\d*) (\(\d+\.*\d*\-\d+\.*\d*\)).*?\#\#\#(.+)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="\1C4 \3 \4; %%%\2\5"/>
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="(.+?)\%\%\%(.+?)CR\-P \(NL\) (\d+\.*\d*) (\(\d+\.*\d*\-\d+\.*\d*\)).*?\#\#\#(.+)" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="\1CRP \3 \4; %%%\2\5"/>
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="(.+?)\%\%\%(.+?)Skrining autoantitela 1 \(tkivo glodara\) \( IgG \) LKS \(IIF\) .*?(.)\#\#\#(.+)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="\1Skrining autoantitela 1 \3; %%%\2\4"/>
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
 			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
@@ -2784,7 +2804,7 @@
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
 			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam="(.+?)\%\%\%(.+?)ANA .IIF. (.+?)\#\#\#(.+)" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="(.+?)\%\%\%(.+?)ANA (?:\(IgG\))*\s*(?:\(tkivo glodara\))*\s*(?:\(IIF\))*\s+(.+?)\#\#\#(.+)" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="\1ANA \3; %%%\2\4"/>
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
@@ -2868,9 +2888,51 @@
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
 			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="(.+?)\%\%\%(.+?)ANA SS-A \(IgG\) \(ELISA\) ([<>]*\s*\d+\.*\d*) (\(\s*[<>]*\s*\d+\.*\d*\-*\d*\.*\d*\s*R*U*\/*m*l*\s*\)).*?\#\#\#(.+)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="\1ANA SS-A \3 \4; %%%\2\5"/>
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="(.+?)\%\%\%(.+?)Anti transglutaminazna \(IgA\) \(ELISA\) (\d+\.*\d*) (\(\d+\.*\d*\-\d+\.*\d*\)).*?\#\#\#(.+)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="\1Anti-transglutaminazna At \3 \4; %%%\2\5"/>
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="(.+?)\%\%\%(.+?)Sistemska skleroza profil \(WB\) \(Ostalo\)\s+(.+?)\#\#\#(.+)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="\1Sistemska skleroza profil \3; %%%\2\4"/>
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="\; \%\%\%.*" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="."/>
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="([<>])\s(\d)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="\1\2"/>
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="\s*RU/ml\s*" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam=""/>
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="\( " />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="\("/>
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
         </Macro>
