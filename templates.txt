@@ -15,15 +15,31 @@ Analize Multiplate: ADPtest U (55-117); TRAPtest U (92-151); COLtest U (61-108);
 
 ================================================================================================================================
 
-Potrebno je da uradi genetsko testiranje na urođene trombofilije (PCR na FV Leiden, PCR na FII 20210A mutaciju). Ovo testiranje se radi na Institutu za medicinska istraživanja na VMA ili na hematologiji u KBC Zvezdara sa uputom za hematologa izdatim od strane izabranog lekara.
+Potrebno je da uradi imunološko testiranje za AFS (ANA, antikardiolipinska At IgG i IgM i anti-beta-2-GPI IgG i IgM). Ovo testiranje se radi na Institutu za Reumatologiju sa uputom za reumatologa izdatim od strane izabranog lekara.
+
+Potrebno je da uradi genetsko testiranje na urođene trombofilije (PCR na FV Leiden, PCR na FII 20210A mutaciju). Ovo testiranje se radi na Institutu za humanu genetiku Medicinskog fakulteta Beograd, Institutu za medicinska istraživanja na VMA ili na hematologiji u KBC Zvezdara sa uputom izdatim od strane izabranog lekara.
 
 ================================================================================================================================
 
-Dosadašnjim ispitivanjem nije ustanovljeno prisustvo hematološkog poremećaja koji bi se mogao jasno dovesti u vezu sa nastankom tromboze.
+Savetujem da uzima CLEXANE amp 0,4mL na 24h.
+
+Potrebno je da kontroliše D-dimer na 4-6 nedelja i ukoliko je vrednost D-dimera više od 3 puta veća od gornje granice referentnog opsega za opštu populaciju treba da nam se javi na vanrednu kontrolu.
+Treba nakon 24NG da uradi EHO DOPPLER utero- i fetoplacentarne cirkulacije i ukoliko je nalaz abnormalan da nam se javi na vanrednu kontrolu.
+
+Redovna kontrola kod nas 10.10.2024. u 08h (KKS, D-dimer, biohemija)
+Po potrebi kontrola i ranije (066/844-6455 10:30-11:00)
+
+
+Vrsta porođaja zavisi od akušerskih indikacija.
+Ukoliko se porađa carskim rezom, ujutro na dan porođaja ne prima FRAGMIN amp a prva naredna doza FRAGMIN amp 5000ij sc je 8-10 sati nakon porođaja. Nakon toga nastavlja da prima FRAGMIN amp 5000ij sc na 24 sata još 4 nedelje nakon porođaja, nakon čega se primena FRAGMIN amp može obustaviti.
+Ukoliko se poradja prirodnim putem FRAGMIN amp ne prima od pojave prvih znakova porođaja a šema primene leka nakon porodjaja je ista kao u slučaju carskog reza.
+U slučaju epiduralne anestezije FRAGMIN amp ne prima najmanje 18 sati pre i 12 sati nakon plasiranja epiduralnog katera.
+
+Kontrola kod nas 6 meseci nakon porođaja, kada je planirano uraditi krvnu sliku i D dimer. Dolazak zakazati preko nadležnog Doma zdravlja (IZIS sistem).
 
 ================================================================================================================================
 
-U slučaju pojave krvarenja javiti se odmah u kabinet za hemofiliju (radnim danima 8-14h) ili u UC UKCS (radnim danima 14-8h i vikendom) gde je potrebno aplikovati 2000ij i.v. Koncentrata rekombinantnog FVIII.
+U slučaju pojave značajnijeg krvarenja javiti se odmah u kabinet za hemofiliju (radnim danima 8-14h) ili u UC UKCS (radnim danima 14-8h i vikendom) gde je potrebno aplikovati 2000ij i.v. Koncentrata rekombinantnog FVIII.
 
 ================================================================================================================================
 
@@ -33,26 +49,35 @@ Treba da nabavi lek TRANEKSAMINSKA KISELINA tbl a 500 mg. Lek se nalazi na D lis
 
 GOSPODIN JE ANTIKOAGULISAN. NE SME UZIMATI ACETILSALICILNU KISELINU I DRUGE LEKOVE KOJI OMETAJU FUNKCIJU TROMBOCITA. U SLUČAJU ZNAČAJNIJEG KRVARENJA ILI POTREBE ZA INVAZIVNIM PROCEDURAMA POTREBNO JE KORIGOVATI ANTIKOAGULANTU TERAPIJU.
 
+GOSPOĐA JE ANTIKOAGULISANA. NE SME UZIMATI ACETILSALICILNU KISELINU I DRUGE LEKOVE KOJI OMETAJU FUNKCIJU TROMBOCITA. U SLUČAJU ZNAČAJNIJEG KRVARENJA ILI POTREBE ZA INVAZIVNIM PROCEDURAMA POTREBNO JE KORIGOVATI ANTIKOAGULANTU TERAPIJU.
+
 ================================================================================================================================
 
 Gospodin/Gospođa (sa ********) dolazi zbog ********. Trenutno ne uzima antikoagulantnu ni antiagregacionu terapiju.
 Tegobe u vidu ********** su se javile **********
 Leči se od *********. Negira operacije i povrede. Negira alergije na hranu i lekove. Ne puši. Trenutna terapija:
 Negira sklonost krvarenju i sklonost trombozama u porodici.
+FAKTORI RIZIKA ZA ATEROSKLEROZU: ****(ako je art.)***
 
 ********M*********
 COVID STATUS: Preležao je Covid infekciju ***********/Nije preležao Covid infekciju. Vakcinisan je sa *** doze ********** vakcine./Nije vakcinisan.
 
-OBJEKTIVNO: TV ***, TT ***. Svestan, orjentisan, komunikativan, pokretan, anikteričan, eupnoičan. Bez znakova hemoragijskog sindroma. Auskultatorno nad plućima normalan disajni šum, srčana radnja ritmična, tonovi jasni, bez šumova. Abdomen mek, palpatorno bolno neosetljiv, jetra i slezina se ne palpiraju. Ekstremiteti bez edema i varikoziteta. Bez periferne limfadenopatije.
+OBJEKTIVNO: TV ***, TT ***. Svestan, orjentisan, komunikativan, pokretan, anikteričan, eupnoičan. Bez znakova hemoragijskog sindroma. Auskultatorno nad plućima normalan disajni šum, srčana radnja ritmična, tonovi jasni, bez šumova. Abdomen mek, palpatorno bolno neosetljiv, jetra i slezina se ne palpiraju. Ekstremiteti bez edema i varikoziteta. Bez znakova klinički manifestne tromboze. Bez periferne limfadenopatije.
 
 ********Ž*********
 COVID STATUS: Preležala je Covid infekciju ***********/Nije preležala Covid infekciju. Vakcinisana je sa *** doze ********** vakcine./Nije vakcinisana.
 
-OBJEKTIVNO: TV ***, TT ***. Svesna, orjentisana, komunikativna, pokretna, anikterična, eupnoična. Bez znakova hemoragijskog sindroma. Auskultatorno nad plućima normalan disajni šum, srčana radnja ritmična, tonovi jasni, bez šumova. Abdomen mek, palpatorno bolno neosetljiv, jetra i slezina se ne palpiraju. Ekstremiteti bez edema i varikoziteta. Bez periferne limfadenopatije.
+OBJEKTIVNO: TV ***, TT ***. Svesna, orjentisana, komunikativna, pokretna, anikterična, eupnoična. Bez znakova hemoragijskog sindroma. Auskultatorno nad plućima normalan disajni šum, srčana radnja ritmična, tonovi jasni, bez šumova. Abdomen mek, palpatorno bolno neosetljiv, jetra i slezina se ne palpiraju. Ekstremiteti bez edema i varikoziteta. Bez znakova klinički manifestne tromboze. Bez periferne limfadenopatije.
 
 LABORATORIJA:
 
 ZAKLJUČAK:
+
+================================================================================================================================
+
+Napisani su uputi da 07.03.2024. u 08h izvadi krv za KKS, testove hemostaze, D-dimer, aktivnost prirodnih inhibitora koagulacije, LA, KCT, biohemiju sa Lp(a) i homocisteinom, imunologiju (ANA, ACLA, ab2-GPI).
+
+Kontrola radi uvida u rezultate traženih analiza zakazuje se za 10.04.2024. u 12h.
 
 ================================================================================================================================
 
@@ -79,3 +104,5 @@ The patient was diagnosed with haemophilia A soon after birth. Hemophilia A resu
 In order to prevent haemophilic arthropathy the patient is treated with FVIII replacement therapy on a regular basis. In defined time frames he regularly receives factor FVIII concentrate. The patient is treated in Hemophilia Comprehensive Treatment Centre, University Clinical Centre of Serbia, Belgrade. Monthly he comes to the treatment centre for a regular check up and recieves a certain amount of FVIII concentrate that he must have with him at any time, in case of bleeding.
 
 ================================================================================================================================
+
+Nema apsolutnih kontraindikacija za primenu RKS, postoji globalno snižena bubrežna funkcija i rizik od pogoršanja iste nakon radiokontrastnih snimanja. U slučaju primene RKS-a (pri selektivnoj koronarografiji ili MSCT snimanjima), 48h pre i 48h posle RKS ne davati metformin (pratiti glikemijski profil), 24-48h pre RKS ne davati ACEI i ARB (uvesti ili povećati dozu antagonista Ca), ne davati NSAIL, MTX, cisplatin, aminoglikozidne antibiotike. Primeniti najmanje moguću količinu izo/hipoosmolarnog RKS. Rehidratacija pre i posle planirane dijagnostike preko nadležnog DZ-a: sol. 0,9% NaCl 500ml (80-100 ml/h) 1 x dnevno, Lasix amp. 20mg NoI iv posle radiokontrastnog snimanja i datog infuzionog rastvora (uz KCl pulv. 1g), Soda bikarbona farmaceutska tbl. 1-2x1 između obroka, Fluimucil eff. 600mg 2x1, počev od dana snimanja i naredna 3 dana. Provera laboratorijskih analiza 24h, 72h i 5. dan posle primene RKS-a, kontrola nefrologa u slučaju pogoršanja laboratorijskih parametara renalne funkcije. U slučaju recidivantnih multirezistentnih urinarnih infekcija, eventualna izrada autovakcine u Institutu za virusologiju, vakcine i serume „Torlak“.
