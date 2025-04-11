@@ -1777,7 +1777,14 @@
             <Action type="3" message="1625" wParam="0" lParam="1" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="Tr " />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />		
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="RET # (\d+\,*\d*); RET % (\d+\,*\d*)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="Ret \1; Ret% \2%" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
 			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="(\d)\.(\d)" />
@@ -1839,13 +1846,6 @@
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="Cross match\: k (\d+\,*\d*)\; k\+b (\d+\,*\d*)\; k\+p (\d+\,*\d*)\; b\+p (\d+\,*\d*)\; k\+b posle 2h (\d+\,*\d*)\; k\+p posle 2h (\d+\,*\d*)\; b\+p posle 2h (\d+\,*\d*)\; Test neutralizacije trombocitima\: PRP pre lize Tr (\d+\,*\d*)\; PRP posle lize Tr (\d+\,*\d*)\;" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="Cross match: k \1s; k+b \2s; k+p \3s; b+p \4s; k+b posle 2h \5s; k+p posle 2h \6s; b+p posle 2h \7s; Test neutralizacije trombocitima: PRP pre lize Tr \8s; PRP posle lize Tr \9s;" />
-            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
-			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam="RET # (\d+\,*\d*); RET % (\d+\,*\d*)" />
-            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
-            <Action type="3" message="1602" wParam="0" lParam="0" sParam="Ret \1; Ret% \2%" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
 			<Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
